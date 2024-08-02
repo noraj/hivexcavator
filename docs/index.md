@@ -1,19 +1,19 @@
 # HivExcavator
 
-[![GitHub forks](https://img.shields.io/github/forks/acceis/hivexcavator)](https://github.com/acceis/hivexcavator/network)
-[![GitHub stars](https://img.shields.io/github/stars/acceis/hivexcavator)](https://github.com/acceis/hivexcavator/stargazers)
-[![GitHub license](https://img.shields.io/github/license/acceis/hivexcavator)](https://github.com/acceis/hivexcavator/blob/master/LICENSE.txt)
+[![GitHub forks](https://img.shields.io/github/forks/norajhivexcavator)](https://github.com/noraj/hivexcavator/network)
+[![GitHub stars](https://img.shields.io/github/stars/noraj/hivexcavator)](https://github.com/noraj/hivexcavator/stargazers)
+[![GitHub license](https://img.shields.io/github/license/noraj/hivexcavator)](https://github.com/noraj/hivexcavator/blob/master/LICENSE.txt)
 [![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.raw.pm/tools.html#hivexcavator)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/acceis/hivexcavator)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/noraj/hivexcavator)
 
-![](https://acceis.github.io/hivexcavator/logo-hivexcavator.png)
+![](https://noraj.github.io/hivexcavator/logo-hivexcavator.png)
 
 > Extracting the contents of Microsoft Windows Registry (hive) and display it as a colorful tree but mainly focused on parsing BCD files to extract WIM files path for PXE attacks.
 
 ## What is it?
 
-![](https://acceis.github.io/hivexcavator/SeqDiag.svg)
+![](https://noraj.github.io/hivexcavator/SeqDiag.svg)
 
 _Microsoft Deployment Toolkit_ (MDT) (integrated in _System Center Configuration Manager_ (SCCM)) helps to automate the deployment of Windows and to manage OS images.
 
@@ -59,20 +59,20 @@ $ gem install hivexcavator
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/hivexcavator.svg)](https://repology.org/project/hivexcavator/versions)
 [![Gem Version](https://badge.fury.io/rb/hivexcavator.svg)](https://badge.fury.io/rb/hivexcavator)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/acceis/hivexcavator)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/noraj/hivexcavator)
 
 ## Example
 
 Example: `hivexcavator ~/test/pxe/conf.bcd`
 
-![](https://acceis.github.io/hivexcavator/hive-tree.png)
+![](https://noraj.github.io/hivexcavator/hive-tree.png)
 
 ## Documentation
 
-- [Homepage](https://acceis.github.io/hivexcavator)
-- [CHANGELOG](https://acceis.github.io/hivexcavator/CHANGELOG)
-- [About](https://acceis.github.io/hivexcavator/about)
+- [Homepage](https://noraj.github.io/hivexcavator)
+- [CHANGELOG](https://noraj.github.io/hivexcavator/CHANGELOG)
+- [About](https://noraj.github.io/hivexcavator/about)
 
 ## Author
 
-Made by Alexandre ZANNI ([@noraj](https://pwn.by/noraj/)) at [ACCEIS](https://www.acceis.fr/).
+Made by Alexandre ZANNI ([@noraj](https://pwn.by/noraj/)). Forked from [Acceis/hivexcavator](https://github.com/Acceis/hivexcavator).

@@ -29,8 +29,8 @@ class HivExcavator
 
       #{Paint['Project:', pal[:SECOND]]}
         #{Paint['author', :underline]} (https://pwn.by/noraj / https://twitter.com/noraj_rawsec)
-        #{Paint['source', :underline]} (https://github.com/acceis/hivexcavator)
-        #{Paint['documentation', :underline]} (https://acceis.github.io/hivexcavator)
+        #{Paint['source', :underline]} (https://github.com/noraj/hivexcavator)
+        #{Paint['documentation', :underline]} (https://noraj.github.io/hivexcavator)
     DOCOPT
 
     begin

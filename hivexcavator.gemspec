@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
                     'but mainly focused on parsing BCD files to extract WIM files path for PXE attacks.'
   s.authors       = ['Alexandre ZANNI']
   s.email         = 'alexandre.zanni@europe.com'
-  s.homepage      = 'https://acceis.github.io/hivexcavator/'
+  s.homepage      = 'https://noraj.github.io/hivexcavator/'
   s.license       = 'MIT'
 
   s.files         = Dir['bin/*'] + Dir['lib/**/*.rb'] + ['LICENSE.txt']
@@ -21,11 +21,11 @@ Gem::Specification.new do |s|
 
   s.metadata = {
     'yard.run' => 'yard',
-    'bug_tracker_uri' => 'https://github.com/acceis/hivexcavator/issues',
-    'changelog_uri' => 'https://github.com/acceis/hivexcavator/blob/master/docs/CHANGELOG.md',
-    'documentation_uri' => 'https://acceis.github.io/hivexcavator/',
-    'homepage_uri' => 'https://acceis.github.io/hivexcavator/',
-    'source_code_uri' => 'https://github.com/acceis/hivexcavator/',
+    'bug_tracker_uri' => 'https://github.com/noraj/hivexcavator/issues',
+    'changelog_uri' => 'https://github.com/noraj/hivexcavator/blob/master/docs/CHANGELOG.md',
+    'documentation_uri' => 'https://noraj.github.io/hivexcavator/',
+    'homepage_uri' => 'https://noraj.github.io/hivexcavator/',
+    'source_code_uri' => 'https://github.com/noraj/hivexcavator/',
     'rubygems_mfa_required' => 'true'
   }
 
