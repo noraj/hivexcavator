@@ -2,7 +2,7 @@ inherit_mode:
   merge:
     - Exclude
 AllCops:
-  TargetRubyVersion: 3.0
+  TargetRubyVersion: 3.1
   NewCops: enable
   SuggestExtensions: false
 
@@ -13,3 +13,5 @@ Metrics/ClassLength:
   Max: 200
 Metrics/MethodLength:
   Max: 20
+Gemspec/AddRuntimeDependency:
+  Enabled: false
