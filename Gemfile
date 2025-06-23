@@ -15,5 +15,5 @@ group :development, :install do
 end
 
 group :development, :lint do
-  gem 'rubocop', '~> 1.76'
+  gem 'rubocop', '~> 1.77'
 end
