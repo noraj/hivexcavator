@@ -11,7 +11,7 @@ group :runtime, :cli do
 end
 
 group :development, :install do
-  gem 'bundler', '~> 2.6'
+  gem 'bundler', '~> 4.0'
 end
 
 group :development, :lint do

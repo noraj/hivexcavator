@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hivexcavator (0.0.1)
+    hivexcavator (0.1.0)
       docopt (~> 0.6)
       paint (~> 2.3)
 
@@ -33,9 +33,9 @@ GEM
       rubocop-ast (>= 1.48.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 4.0)
-    rubocop-ast (1.48.0)
+    rubocop-ast (1.49.0)
       parser (>= 3.3.7.2)
-      prism (~> 1.4)
+      prism (~> 1.7)
     ruby-progressbar (1.13.0)
     unicode-display_width (3.2.0)
       unicode-emoji (~> 4.1)
@@ -45,11 +45,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (~> 2.6)
+  bundler (~> 4.0)
   docopt (~> 0.6)
   hivexcavator!
   paint (~> 2.3)
   rubocop (~> 1.82)
 
 BUNDLED WITH
-   2.6.3
+  4.0.3
