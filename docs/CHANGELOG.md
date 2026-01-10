@@ -2,7 +2,7 @@
 
 ## [0.1.0]
 
-- **Breaking change**s:
+- **Breaking changes**:
   - Drop support for Ruby 3.0 & 3.1 (EoL)
 - Chore:
   - Add support for Ruby 3.4 & 4.0
